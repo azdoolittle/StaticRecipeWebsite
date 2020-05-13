@@ -120,6 +120,10 @@ img {
 }
 
 .jumbotron h1 {
+    color: black;
+}
+
+.jumbotron h1 {
     font-weight: 300;
 }
 
@@ -134,4 +138,9 @@ footer {
 
 footer p {
     margin-bottom: .25rem;
+}
+
+.recipe-title {
+    font-family: 'Pacifico', cursive;
+    text-align: center;
 }

@@ -113,6 +113,14 @@ img {
         flex: 0 0 49%!important;
         max-width: 49%!important;
     }
+
+    .body {
+        margin-left: 10px;
+    }
+}
+
+.mt-0 {
+    margin-left: 10px;
 }
 
 .jumbotron p:last-child {
@@ -143,4 +151,8 @@ footer p {
 .recipe-title {
     font-family: 'Pacifico', cursive;
     text-align: center;
+}
+
+.mr-3 .recipe-img {
+    max-width: 60%;
 }
